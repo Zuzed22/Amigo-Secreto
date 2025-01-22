@@ -31,3 +31,16 @@ Iterar sobre el arreglo: Usa un bucle for para recorrer el arreglo amigos y crea
 - Mostrando el resultado: elemento de resultado utilizando document.getElementById()  e innerHTML para mostrar el amigo sorteado.
 
   En revisión
+![image](https://github.com/user-attachments/assets/f35c2269-7ae4-4948-a2a1-2bccae723822)
+muestra la lista
+
+![image](https://github.com/user-attachments/assets/0a08f095-79bf-447c-8d17-4c0571101d53)
+emite alerta cuando hay espacio vacío paar ingresar nombre valido
+
+![image](https://github.com/user-attachments/assets/f0f083a6-6463-4fe9-829e-3410ad7749ce)
+no admite nombres ducplicados
+
+![image](https://github.com/user-attachments/assets/1e15a57c-f226-4364-a4d7-2c0d5ff46313)
+indica en pantalla el amigo secreto de manera aleatoria
+
+
