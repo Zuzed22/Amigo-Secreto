@@ -24,7 +24,7 @@ Iterar sobre el arreglo: Usa un bucle for para recorrer el arreglo amigos y crea
 
 - Generar un índice aleatorio: Usar Math.random() y Math.floor() para seleccionar un índice aleatorio del arreglo.
 
-- Obteneiendo el nombre sorteado:utilizando el índice aleatorio para acceder al nombre correspondiente en el arreglo.
+- Obteniendo el nombre sorteado:utilizando el índice aleatorio para acceder al nombre correspondiente en el arreglo.
   
 - Eliminando duplicados
 
@@ -42,5 +42,7 @@ no admite nombres ducplicados
 
 ![image](https://github.com/user-attachments/assets/1e15a57c-f226-4364-a4d7-2c0d5ff46313)
 indica en pantalla el amigo secreto de manera aleatoria
+
+finalizada
 
 
